@@ -12,7 +12,8 @@ Password Store extension Keys
 ```
 pass keys sync
 
-imports all the missing public keys into your GPG and commits any missing public keys into your [pass] GIT repo
+imports all the missing public keys into your GPG 
+and commits any missing public keys into your [pass] GIT repo
 ```
 
 ## Installation
